@@ -1,0 +1,659 @@
+{
+    "request_info": {
+      "success": true,
+      "topup_credits_remaining": 97,
+      "credits_used_this_request": 1
+    },
+    "request_parameters": {
+      "type": "product",
+      "amazon_domain": "amazon.in",
+      "asin": "B0CRDTXWTR"
+    },
+    "request_metadata": {
+      "created_at": "2024-02-07T18:12:22.334Z",
+      "processed_at": "2024-02-07T18:12:27.812Z",
+      "total_time_taken": 5.48,
+      "amazon_url": "https://www.amazon.in/dp/B0CRDTXWTR?th=1&psc=1"
+    },
+    "product": {
+      "title": "Lenovo LOQ 2024 Intel Core i7-14700HX 15.6\" (39.6cm) 144Hz 300Nits FHD Gaming Laptop (16GB/1TB SSD/Win 11/NVDIA RTX 4060 8GB Graphics/100% sRGB/3 Month Game Pass/Luna Grey/2.4Kg), 83DV007FIN",
+      "search_alias": {
+        "title": "Computers & Accessories",
+        "value": "computers"
+      },
+      "keywords": "Lenovo,LOQ,2024,Intel,Core,i7-14700HX,15.6\",(39.6cm),144Hz,300Nits,FHD,Gaming,Laptop,(16GB/1TB,SSD/Win,11/NVDIA,RTX,4060,8GB,Graphics/100%,sRGB/3,Month,Game,Pass/Luna,Grey/2.4Kg),,83DV007FIN",
+      "keywords_list": [
+        "Lenovo",
+        "2024",
+        "Intel",
+        "Core",
+        "i7-14700HX",
+        "15.6\"",
+        "(39.6cm)",
+        "144Hz",
+        "300Nits",
+        "Gaming",
+        "Laptop",
+        "(16GB/1TB",
+        "SSD/Win",
+        "11/NVDIA",
+        "4060",
+        "Graphics/100%",
+        "sRGB/3",
+        "Month",
+        "Game",
+        "Pass/Luna",
+        "Grey/2.4Kg)",
+        "83DV007FIN"
+      ],
+      "asin": "B0CRDTXWTR",
+      "link": "https://www.amazon.in/Lenovo-i7-14700HX-300Nits-Graphics-83DV007FIN/dp/B0CRDTXWTR",
+      "brand": "Lenovo",
+      "protection_plans": [
+        {
+          "asin": "B0CM73VQGL",
+          "title": "Total Protection Plan by OneAssist",
+          "price": {
+            "symbol": "₹",
+            "value": 5599,
+            "currency": "INR",
+            "raw": "₹5,599.00"
+          }
+        },
+        {
+          "asin": "B0BPMKLGMY",
+          "title": "Extended Warranty by Quess",
+          "price": {
+            "symbol": "₹",
+            "value": 6999,
+            "currency": "INR",
+            "raw": "₹6,999.00"
+          }
+        }
+      ],
+      "energy_efficiency": {},
+      "categories": [
+        {
+          "name": "Computers & Accessories",
+          "link": "https://www.amazon.in/computers-and-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976392031",
+          "category_id": "976392031"
+        },
+        {
+          "name": "Laptops",
+          "link": "https://www.amazon.in/Laptops/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1375424031",
+          "category_id": "1375424031"
+        },
+        {
+          "name": "Traditional Laptops",
+          "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=22963796031",
+          "category_id": "22963796031"
+        }
+      ],
+      "categories_flat": "Computers & Accessories > Laptops > Traditional Laptops",
+      "a_plus_content": {
+        "has_a_plus_content": true,
+        "has_brand_story": false,
+        "third_party": false
+      },
+      "sub_title": {
+        "text": "Visit the Lenovo Store",
+        "link": "https://www.amazon.in/stores/Lenovo/page/B38E87B8-7992-4D02-8F16-27F42B96F528?ref_=ast_bln"
+      },
+      "rating": 5,
+      "rating_breakdown": {
+        "five_star": {
+          "percentage": 100,
+          "count": 1
+        },
+        "four_star": {
+          "percentage": 0,
+          "count": 0
+        },
+        "three_star": {
+          "percentage": 0,
+          "count": 0
+        },
+        "two_star": {
+          "percentage": 0,
+          "count": 0
+        },
+        "one_star": {
+          "percentage": 0,
+          "count": 0
+        }
+      },
+      "ratings_total": 1,
+      "main_image": {
+        "link": "https://m.media-amazon.com/images/I/81nnXfbm7rL.jpg"
+      },
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/81nnXfbm7rL._SL1500_.jpg",
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71BDiec4jfL._SL1080_.jpg",
+          "variant": "FRNT"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61XC+zYkFgL._SL1080_.jpg",
+          "variant": "SIDE"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61dgCJT8O6L._SL1080_.jpg",
+          "variant": "BACK"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61pGFyfxZZL._SL1080_.jpg",
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71gXZ9cEBnL._SL1080_.jpg",
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71rxuyHWsGL._SL1500_.jpg",
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71SkPVWjowL._SL1500_.jpg",
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61gOjU+BfhL._SL1500_.jpg",
+          "variant": "PT05"
+        }
+      ],
+      "images_count": 9,
+      "images_flat": "https://m.media-amazon.com/images/I/81nnXfbm7rL._SL1500_.jpg,https://m.media-amazon.com/images/I/71BDiec4jfL._SL1080_.jpg,https://m.media-amazon.com/images/I/61XC+zYkFgL._SL1080_.jpg,https://m.media-amazon.com/images/I/61dgCJT8O6L._SL1080_.jpg,https://m.media-amazon.com/images/I/61pGFyfxZZL._SL1080_.jpg,https://m.media-amazon.com/images/I/71gXZ9cEBnL._SL1080_.jpg,https://m.media-amazon.com/images/I/71rxuyHWsGL._SL1500_.jpg,https://m.media-amazon.com/images/I/71SkPVWjowL._SL1500_.jpg,https://m.media-amazon.com/images/I/61gOjU+BfhL._SL1500_.jpg",
+      "videos": [
+        {
+          "duration_seconds": 100,
+          "width": 854,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/365ba536-c9ed-4002-986a-7be76e5bdf76/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/61z7GsQTRfL.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G1",
+          "group_type": "videos_for_this_product",
+          "title": "Lenovo LOQ 2024 Intel Core i7-14700HX 15.6\" (39.6cm) 144Hz 300Nits FHD Gaming Laptop (16GB/1TB"
+        }
+      ],
+      "videos_count": 1,
+      "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/365ba536-c9ed-4002-986a-7be76e5bdf76/default.jobtemplate.mp4.480.mp4",
+      "is_bundle": false,
+      "feature_bullets": [
+        "Processor: Intel Core i7-14700HX | P-core 2.1 / 5.5GHz, E-core 1.5 / 3.9GHz | 20 Cores | 28 Threads | 33MB Cache",
+        "Display: 15.6\" FHD (1920x1080) IPS Technology | 144 Hz Refresh Rate | 100% sRGB |Brightness: 300Nits Anti-glare | NVDIA G-Sync || Connectivity : Wifi 6E 11ax (2x2) | Bluetooth 5.1",
+        "Memory: 16GB RAM DDR5-5600 | Storage: 1TB SSD (Expandable upto 2TB)",
+        "Graphics: NVIDIA GeForce RTX 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 115W | Free-Sync and G-Sync || Cooling: Dual 85mm 12V high-speed fans and larger vents ensure quiet and powerful cooling.",
+        "AI Engine : The Lenovo AI Engine+ and Lenovo LA1 AI Chip work together with the MUX Switch with NVIDIA Advanced Optimus for a truly epic boost in performance, at levels you've never seen before.",
+        "OS and Pre-Installed Softare: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 || Battery Life: 60Wh (upto 6 Hrs) | Rapid Charge Pro (100% Battery Life in 80min )",
+        "Audio: 2x 2W HD Stereo Speakers | Nahimic Audio with Surround Sound, Sound Tracker, Night Mode, Sound Sharing & Content Profiles || Camera: FHD 1080p | E-cam Shutter | Integrated Dual Array Microphone",
+        "Keyboard: 1.5 mm Key Travel | 4-Zone RGB Keyboard with 100% Anti-Ghosting",
+        "Warranty: This genuine Lenovo laptop comes with 1 year onsite manufacturer warranty",
+        "Ports: 1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort 1.4 | 3x USB-A (USB 5Gbps / USB 3.2 Gen 1) | 1x HDMI 2.1, up to 8K/60Hz | 1x Ethernet (RJ-45) | 1x Headphone / microphone combo jack (3.5mm) | 1x Power connector"
+      ],
+      "feature_bullets_count": 10,
+      "feature_bullets_flat": "Ports: 1x USB-C (USB 10Gbps / USB 3.2 Gen 2), with PD 140W and DisplayPort 1.4 | 3x USB-A (USB 5Gbps / USB 3.2 Gen 1) | 1x HDMI 2.1, up to 8K/60Hz | 1x Ethernet (RJ-45) | 1x Headphone / microphone combo jack (3.5mm) | 1x Power connector. Warranty: This genuine Lenovo laptop comes with 1 year onsite manufacturer warranty. Keyboard: 1.5 mm Key Travel | 4-Zone RGB Keyboard with 100% Anti-Ghosting. Audio: 2x 2W HD Stereo Speakers | Nahimic Audio with Surround Sound, Sound Tracker, Night Mode, Sound Sharing & Content Profiles || Camera: FHD 1080p | E-cam Shutter | Integrated Dual Array Microphone. OS and Pre-Installed Softare: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 || Battery Life: 60Wh (upto 6 Hrs) | Rapid Charge Pro (100% Battery Life in 80min ). AI Engine : The Lenovo AI Engine+ and Lenovo LA1 AI Chip work together with the MUX Switch with NVIDIA Advanced Optimus for a truly epic boost in performance, at levels you've never seen before. Graphics: NVIDIA GeForce RTX 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 115W | Free-Sync and G-Sync || Cooling: Dual 85mm 12V high-speed fans and larger vents ensure quiet and powerful cooling. Memory: 16GB RAM DDR5-5600 | Storage: 1TB SSD (Expandable upto 2TB). Display: 15.6\" FHD (1920x1080) IPS Technology | 144 Hz Refresh Rate | 100% sRGB |Brightness: 300Nits Anti-glare | NVDIA G-Sync || Connectivity : Wifi 6E 11ax (2x2) | Bluetooth 5.1. Processor: Intel Core i7-14700HX | P-core 2.1 / 5.5GHz, E-core 1.5 / 3.9GHz | 20 Cores | 28 Threads | 33MB Cache.",
+      "attributes": [
+        {
+          "name": "Brand",
+          "value": "Lenovo"
+        },
+        {
+          "name": "Model Name",
+          "value": "LOQ 15IRX9"
+        },
+        {
+          "name": "Screen Size",
+          "value": "15.6 Inches"
+        },
+        {
+          "name": "Colour",
+          "value": "Luna Grey"
+        },
+        {
+          "name": "Hard Disk Size",
+          "value": "1 TB"
+        },
+        {
+          "name": "CPU Model",
+          "value": "Intel Core i7"
+        },
+        {
+          "name": "RAM Memory Installed Size",
+          "value": "16 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "Windows 11"
+        },
+        {
+          "name": "Special Feature",
+          "value": "Anti Glare Coating"
+        },
+        {
+          "name": "Graphics Card Description",
+          "value": "Dedicated"
+        }
+      ],
+      "top_reviews": [
+        {
+          "id": "R3LV5CTPTKB95V",
+          "title": "For the low price of 1lakh, it's a worthy upgrade over it's predecessor",
+          "body": "The media could not be loaded. CAUTION: These all tests are done in like 8-9 degrees C in Purnea Bihar In January 2024. Subject to change in normal conditions.  Like: 1) Thermal design is excellent when the fans do work. 2) Battery Life is 4 hours on youtube playback test which is excellent for an HX CPU. 3) Finally the standoff the SSDs are removable so you install any SSD in both the slots. 4) Keyboard stays cold even during gameplay. 5) Screen looks good, I compared it with a 100% sRGB screen on another laptop. 6) Surprisingly sturdy and there is a definite heft to it. It feels more well build than the last year's LOQ, though still not a Legion as this is a good plastic, but still plastic. 7) SSD is actually giving gen 4 speed unlike last gen and the Wifi card is also Intel. ...  Attaching benchmark images.  Under Review/Cons: 1) Fans don't ramp up immediately. Maybe fixed with fan profile. This causes a thermal throttle like immediately but once the fans do ramp up, they do come down in temperature and by a lot. 2) 14700HX not staying above 100W on a constant load so Cinebench R23 Multi Scores don't cross 22000 where it should have hit the 27000. 3) Default thermal paste out of the box aren't as good. It's not the PTM god knows what number in it, so I applied the Arctic MX-6. 4) Budget class Speaker, don't expect much. ...  PENDING: 1) There was a small sticker of Lenovo on the thermal module, I destroyed it to see what Lenovo technician says when they do visit. 2) Is my unit actually thermal throttling or is it just the CPU like that. 3) Did Lenovo know that the CPU isn't capable of sustaining more than 100W and so only gave the 230W charger? 4) I am new to overclocking, the CPU and the GPU both can be overclocked but I don't see thermal headroom on the CPU side to make it.... Well I don't know about it, I am trying but I can only score lower not higher, on a happier note, the temps on a cinebench score of 17000 is very low, like 55 degrees.Read more",
+          "asin": "B0CRDTXWTR",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R3LV5CTPTKB95V\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                  <div id=\"review-video-id-R3LV5CTPTKB95V\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R3LV5CTPTKB95V\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3cdd3c3f-62ab-4d6d-83a2-1fb86c533c3b/default.jobtemplate.hls.m3u8\" data-closed-captions=\"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-eu-west-1-prod/closedCaptions/876d9296-dd7d-4988-a67f-15674636f5a8.vtt\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/61ekthtux+L._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>                </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3cdd3c3f-62ab-4d6d-83a2-1fb86c533c3b/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/61ekthtux+L._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;CAUTION: These all tests are done in like 8-9 degrees C in Purnea Bihar In January 2024. Subject to change in normal conditions.<br><br>Like:<br>1) Thermal design is excellent when the fans do work.<br>2) Battery Life is 4 hours on youtube playback test which is excellent for an HX CPU.<br>3) Finally the standoff the SSDs are removable so you install any SSD in both the slots.<br>4) Keyboard stays cold even during gameplay.<br>5) Screen looks good, I compared it with a 100% sRGB screen on another laptop.<br>6) Surprisingly sturdy and there is a definite heft to it. It feels more well build than the last year's LOQ, though still not a Legion as this is a good plastic, but still plastic.<br>7) SSD is actually giving gen 4 speed unlike last gen and the Wifi card is also Intel.<br>...<br><br>Attaching benchmark images.<br><br>Under Review/Cons:<br>1) Fans don't ramp up immediately. Maybe fixed with fan profile. This causes a thermal throttle like immediately but once the fans do ramp up, they do come down in temperature and by a lot.<br>2) 14700HX not staying above 100W on a constant load so Cinebench R23 Multi Scores don't cross 22000 where it should have hit the 27000.<br>3) Default thermal paste out of the box aren't as good. It's not the PTM god knows what number in it, so I applied the Arctic MX-6.<br>4) Budget class Speaker, don't expect much.<br>...<br><br>PENDING:<br>1) There was a small sticker of Lenovo on the thermal module, I destroyed it to see what Lenovo technician says when they do visit.<br>2) Is my unit actually thermal throttling or is it just the CPU like that.<br>3) Did Lenovo know that the CPU isn't capable of sustaining more than 100W and so only gave the 230W charger?<br>4) I am new to overclocking, the CPU and the GPU both can be overclocked but I don't see thermal headroom on the CPU side to make it.... Well I don't know about it, I am trying but I can only score lower not higher, on a happier note, the temps on a cinebench score of 17000 is very low, like 55 degrees.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.in/gp/customer-reviews/R3LV5CTPTKB95V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDTXWTR",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in India on 24 January 2024",
+            "utc": "2024-01-24T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "MakingTechFriendly India",
+            "link": "https://www.amazon.in/gp/profile/amzn1.account.AF7YNWTX7NCL5BCPY565VKDGAMGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AF7YNWTX7NCL5BCPY565VKDGAMGQ",
+            "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/acd56490-4f20-4644-907a-1907449dccbc._CR0,0,500,500_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": false,
+          "images": [
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            }
+          ],
+          "videos": [
+            {
+              "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3cdd3c3f-62ab-4d6d-83a2-1fb86c533c3b/default.jobtemplate.mp4.480.mp4",
+              "image": "https://m.media-amazon.com/images/I/61ekthtux+L._SY256._SY256.jpg"
+            }
+          ],
+          "helpful_votes": 48,
+          "review_country": "in",
+          "is_global_review": false
+        }
+      ],
+      "buybox_winner": {
+        "maximum_order_quantity": {
+          "value": 2,
+          "hard_maximum": true
+        },
+        "is_prime": false,
+        "is_prime_exclusive_deal": false,
+        "is_amazon_fresh": false,
+        "condition": {
+          "is_new": true
+        },
+        "availability": {
+          "type": "in_stock",
+          "raw": "In stock",
+          "dispatch_days": 1
+        },
+        "fulfillment": {
+          "type": "2p",
+          "standard_delivery": {
+            "date": "Saturday, 10 February",
+            "name": "FREE"
+          },
+          "is_sold_by_amazon": false,
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "is_sold_by_third_party": true,
+          "third_party_seller": {
+            "name": "Appario Retail Private Ltd",
+            "link": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A14CZOWI0VEHLG&asin=B0CRDTXWTR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+            "id": "A14CZOWI0VEHLG"
+          }
+        },
+        "price": {
+          "symbol": "₹",
+          "value": 122990,
+          "currency": "INR",
+          "raw": "₹1,22,990"
+        },
+        "rrp": {
+          "symbol": "₹",
+          "value": 181890,
+          "currency": "INR",
+          "raw": "₹1,81,890"
+        },
+        "shipping": {
+          "raw": "FREE"
+        }
+      },
+      "specifications": [
+        {
+          "name": "Brand",
+          "value": "‎Lenovo"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "‎Lenovo, One of the below: Hefei Bitland Information Technology Co.,Ltd - No.4088 Jiuxiu Road National Hefei economic & technology development area Hefei Anhui China LCFC（Hefei) Electronics Technology Co., Ltd. - NO.1-3188,YUNGU ROAD, HEFEI EXPORT PROCESSING ZONE. ANHUI PROVINCE,CHINA  Tech-Com(Shanghai) Computer Co Ltd - No.6 Ln.58,San-Zhuang Rd., Songjiang EPZ ShangHai, China Wistron InfoComm (Kunshan) Co.Ltd - 168# First Avenue, Kunshan Export Processing Zone, Kunshan, Jiangsu, China Compal information technology (kunshan) CO., LTD. - Address: No. 58, the 1st street, Kunshan Export Processing Zone, Jiangsu, P.R.O.C. CHINA Kunshan Hichain storage Co. Ltd - No. 88 Xinxiang Road  Avenue Kunshan CBZ Wujiang Hichain warehousing LTD - No.2088 Pangjin road, Wujiang economic development area,  Jiangsu, China"
+        },
+        {
+          "name": "Series",
+          "value": "‎LOQ 15IRX9"
+        },
+        {
+          "name": "Colour",
+          "value": "‎Luna Grey"
+        },
+        {
+          "name": "Form Factor",
+          "value": "‎Ultra-Portable"
+        },
+        {
+          "name": "Standing screen display size",
+          "value": "‎15.6 Inches"
+        },
+        {
+          "name": "Resolution",
+          "value": "‎1920 x 1080"
+        },
+        {
+          "name": "Package Dimensions",
+          "value": "‎54.29 x 35.5 x 8.4 cm; 2.45 Kilograms"
+        },
+        {
+          "name": "Batteries",
+          "value": "‎1 Lithium Polymer batteries required. (included)"
+        },
+        {
+          "name": "Item model number",
+          "value": "‎15IRX9"
+        },
+        {
+          "name": "Processor Brand",
+          "value": "‎Intel"
+        },
+        {
+          "name": "Processor Type",
+          "value": "‎Intel Core i7"
+        },
+        {
+          "name": "Processor Speed",
+          "value": "‎2.1 GHz"
+        },
+        {
+          "name": "Processor Count",
+          "value": "‎20"
+        },
+        {
+          "name": "Memory Technology",
+          "value": "‎DDR5"
+        },
+        {
+          "name": "Computer Memory Type",
+          "value": "‎DDR5 RAM"
+        },
+        {
+          "name": "Maximum Memory Supported",
+          "value": "‎32 GB"
+        },
+        {
+          "name": "Hard Drive Size",
+          "value": "‎1 TB"
+        },
+        {
+          "name": "Hard Disk Description",
+          "value": "‎SSD"
+        },
+        {
+          "name": "Speaker Description",
+          "value": "‎2 x 2W speakers with Nahimic Audio & Sound Tracker"
+        },
+        {
+          "name": "Graphics Chipset Brand",
+          "value": "‎NVDIA"
+        },
+        {
+          "name": "Graphics Card Description",
+          "value": "‎Dedicated"
+        },
+        {
+          "name": "Graphics RAM Type",
+          "value": "‎GDDR6"
+        },
+        {
+          "name": "Graphics Card Ram Size",
+          "value": "‎8 GB"
+        },
+        {
+          "name": "Graphics Card Interface",
+          "value": "‎PCI Express"
+        },
+        {
+          "name": "Number of USB 3.0 Ports",
+          "value": "‎4"
+        },
+        {
+          "name": "Optical Drive Type",
+          "value": "‎Not Available"
+        },
+        {
+          "name": "Operating System",
+          "value": "‎Windows 11"
+        },
+        {
+          "name": "Average Battery Life (in hours)",
+          "value": "‎6 Hours"
+        },
+        {
+          "name": "Are Batteries Included",
+          "value": "‎Yes"
+        },
+        {
+          "name": "Lithium Battery Energy Content",
+          "value": "‎60 Watt Hours"
+        },
+        {
+          "name": "Number of Lithium Ion Cells",
+          "value": "‎4"
+        },
+        {
+          "name": "Included Components",
+          "value": "‎User Guide, Laptop, Battery"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "‎Lenovo"
+        },
+        {
+          "name": "Country of Origin",
+          "value": "‎China"
+        },
+        {
+          "name": "Item Weight",
+          "value": "‎2 kg 450 g"
+        },
+        {
+          "name": "ASIN",
+          "value": "B0CRDTXWTR"
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "5.0 5.0 out of 5 stars        1 rating          5.0 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#7,625 in Computers & Accessories (See Top 100 in Computers & Accessories) #234 in Traditional Laptops"
+        },
+        {
+          "name": "Date First Available",
+          "value": "3 January 2024"
+        },
+        {
+          "name": "Packer",
+          "value": "One of the below: Hefei Bitland Information Technology Co.,Ltd - No.4088 Jiuxiu Road National Hefei economic & technology development area Hefei Anhui China LCFC（Hefei) Electronics Technology Co., Ltd. - NO.1-3188,YUNGU ROAD, HEFEI EXPORT PROCESSING ZONE. ANHUI PROVINCE,CHINA  Tech-Com(Shanghai) Computer Co Ltd - No.6 Ln.58,San-Zhuang Rd., Songjiang EPZ ShangHai, China Wistron InfoComm (Kunshan) Co.Ltd - 168# First Avenue, Kunshan Export Processing Zone, Kunshan, Jiangsu, China Compal information technology (kunshan) CO., LTD. - Address: No. 58, the 1st street, Kunshan Export Processing Zone, Jiangsu, P.R.O.C. CHINA Kunshan Hichain storage Co. Ltd - No. 88 Xinxiang Road  Avenue Kunshan CBZ Wujiang Hichain warehousing LTD - No.2088 Pangjin road, Wujiang economic development area,  Jiangsu, China"
+        },
+        {
+          "name": "Importer",
+          "value": "Lenovo (India) Private Limited, RBD Icon, Level 2, Doddenakundi Village, Marathahalli Outer Ring Road, K. R. Puram Hobli, Bangalore 560037, Karnataka, India"
+        },
+        {
+          "name": "Net Quantity",
+          "value": "1 Piece"
+        },
+        {
+          "name": "Generic Name",
+          "value": "Laptop"
+        },
+        {
+          "name": "Brand",
+          "value": "Lenovo"
+        },
+        {
+          "name": "Model Name",
+          "value": "LOQ 15IRX9"
+        },
+        {
+          "name": "Screen Size",
+          "value": "15.6 Inches"
+        },
+        {
+          "name": "Colour",
+          "value": "Luna Grey"
+        },
+        {
+          "name": "Hard Disk Size",
+          "value": "1 TB"
+        },
+        {
+          "name": "CPU Model",
+          "value": "Intel Core i7"
+        },
+        {
+          "name": "RAM Memory Installed Size",
+          "value": "16 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "Windows 11"
+        },
+        {
+          "name": "Special Feature",
+          "value": "Anti Glare Coating"
+        },
+        {
+          "name": "Graphics Card Description",
+          "value": "Dedicated"
+        }
+      ],
+      "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Anti Glare Coating. Operating System: Windows 11. RAM Memory Installed Size: 16 GB. CPU Model: Intel Core i7. Hard Disk Size: 1 TB. Colour: Luna Grey. Screen Size: 15.6 Inches. Model Name: LOQ 15IRX9. Brand: Lenovo. Generic Name: Laptop. Net Quantity: 1 Piece. Importer: Lenovo (India) Private Limited, RBD Icon, Level 2, Doddenakundi Village, Marathahalli Outer Ring Road, K. R. Puram Hobli, Bangalore 560037, Karnataka, India. Packer: One of the below: Hefei Bitland Information Technology Co.,Ltd - No.4088 Jiuxiu Road National Hefei economic & technology development area Hefei Anhui China LCFC（Hefei) Electronics Technology Co., Ltd. - NO.1-3188,YUNGU ROAD, HEFEI EXPORT PROCESSING ZONE. ANHUI PROVINCE,CHINA  Tech-Com(Shanghai) Computer Co Ltd - No.6 Ln.58,San-Zhuang Rd., Songjiang EPZ ShangHai, China Wistron InfoComm (Kunshan) Co.Ltd - 168# First Avenue, Kunshan Export Processing Zone, Kunshan, Jiangsu, China Compal information technology (kunshan) CO., LTD. - Address: No. 58, the 1st street, Kunshan Export Processing Zone, Jiangsu, P.R.O.C. CHINA Kunshan Hichain storage Co. Ltd - No. 88 Xinxiang Road  Avenue Kunshan CBZ Wujiang Hichain warehousing LTD - No.2088 Pangjin road, Wujiang economic development area,  Jiangsu, China. Date First Available: 3 January 2024. Best Sellers Rank: #7,625 in Computers & Accessories (See Top 100 in Computers & Accessories) #234 in Traditional Laptops. Customer Reviews: 5.0 5.0 out of 5 stars        1 rating          5.0 out of 5 stars. ASIN: B0CRDTXWTR. Item Weight: ‎2 kg 450 g. Country of Origin: ‎China. Manufacturer: ‎Lenovo. Included Components: ‎User Guide, Laptop, Battery. Number of Lithium Ion Cells: ‎4. Lithium Battery Energy Content: ‎60 Watt Hours. Are Batteries Included: ‎Yes. Average Battery Life (in hours): ‎6 Hours. Operating System: ‎Windows 11. Optical Drive Type: ‎Not Available. Number of USB 3.0 Ports: ‎4. Graphics Card Interface: ‎PCI Express. Graphics Card Ram Size: ‎8 GB. Graphics RAM Type: ‎GDDR6. Graphics Card Description: ‎Dedicated. Graphics Chipset Brand: ‎NVDIA. Speaker Description: ‎2 x 2W speakers with Nahimic Audio & Sound Tracker. Hard Disk Description: ‎SSD. Hard Drive Size: ‎1 TB. Maximum Memory Supported: ‎32 GB. Computer Memory Type: ‎DDR5 RAM. Memory Technology: ‎DDR5. Processor Count: ‎20. Processor Speed: ‎2.1 GHz. Processor Type: ‎Intel Core i7. Processor Brand: ‎Intel. Item model number: ‎15IRX9. Batteries: ‎1 Lithium Polymer batteries required. (included). Package Dimensions: ‎54.29 x 35.5 x 8.4 cm; 2.45 Kilograms. Resolution: ‎1920 x 1080. Standing screen display size: ‎15.6 Inches. Form Factor: ‎Ultra-Portable. Colour: ‎Luna Grey. Series: ‎LOQ 15IRX9. Manufacturer: ‎Lenovo, One of the below: Hefei Bitland Information Technology Co.,Ltd - No.4088 Jiuxiu Road National Hefei economic & technology development area Hefei Anhui China LCFC（Hefei) Electronics Technology Co., Ltd. - NO.1-3188,YUNGU ROAD, HEFEI EXPORT PROCESSING ZONE. ANHUI PROVINCE,CHINA  Tech-Com(Shanghai) Computer Co Ltd - No.6 Ln.58,San-Zhuang Rd., Songjiang EPZ ShangHai, China Wistron InfoComm (Kunshan) Co.Ltd - 168# First Avenue, Kunshan Export Processing Zone, Kunshan, Jiangsu, China Compal information technology (kunshan) CO., LTD. - Address: No. 58, the 1st street, Kunshan Export Processing Zone, Jiangsu, P.R.O.C. CHINA Kunshan Hichain storage Co. Ltd - No. 88 Xinxiang Road  Avenue Kunshan CBZ Wujiang Hichain warehousing LTD - No.2088 Pangjin road, Wujiang economic development area,  Jiangsu, China. Brand: ‎Lenovo.",
+      "bestsellers_rank": [
+        {
+          "category": "Computers & Accessories",
+          "rank": 7625,
+          "link": "https://www.amazon.in/gp/bestsellers/computers/ref=pd_zg_ts_computers"
+        },
+        {
+          "category": "Traditional Laptops",
+          "rank": 234,
+          "link": "https://www.amazon.in/gp/bestsellers/computers/22963796031/ref=pd_zg_hrsr_computers"
+        }
+      ],
+      "color": "Luna Grey",
+      "manufacturer": "‎Lenovo",
+      "weight": "‎2 kg 450 g",
+      "first_available": {
+        "raw": "3 January 2024",
+        "utc": "2024-01-03T00:00:00.000Z"
+      },
+      "model_number": "‎15IRX9",
+      "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 7625, Category: Traditional Laptops | Rank: 234",
+      "whats_in_the_box": [
+        "Laptop",
+        "Battery",
+        "User Guide"
+      ]
+    },
+    "brand_store": {
+      "id": "B38E87B8-7992-4D02-8F16-27F42B96F528",
+      "link": "https://www.amazon.in/stores/Lenovo/page/B38E87B8-7992-4D02-8F16-27F42B96F528"
+    },
+    "frequently_bought_together": {
+      "total_price": {
+        "symbol": "₹",
+        "value": 160003,
+        "currency": "INR",
+        "raw": "₹1,60,003.00"
+      },
+      "products": [
+        {
+          "asin": "B0CRDTXWTR",
+          "title": "Lenovo LOQ 2024 Intel Core i7-14700HX 15.6\" (39.6cm) 144Hz 300Nits FHD Gaming Laptop (16GB/1TB SSD/Win 11/NVDIA RTX 4060 8GB Graphics/100% sRGB/3 Month Game Pass/Luna Grey/2.4Kg), 83DV007FIN",
+          "link": "https://www.amazon.in/dp/B0CRDTXWTR",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/81nnXfbm7rL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "₹",
+            "value": 5599,
+            "currency": "INR",
+            "raw": "₹5,599.00"
+          }
+        },
+        {
+          "asin": "B075Y72PHZ",
+          "title": "Lenovo 15.6\" Casual Backpack B210",
+          "link": "https://www.amazon.in/dp/B075Y72PHZ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/51r6v5HdiiL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "₹",
+            "value": 1023,
+            "currency": "INR",
+            "raw": "₹1,023.00"
+          }
+        },
+        {
+          "asin": "B09MM58Y7Q",
+          "title": "Lenovo Ideapad 3 AMD Ryzen 5 5500U 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit Keyboard/2Yr Warranty/Arctic Grey/1.65Kg), 82KU017KIN",
+          "link": "https://www.amazon.in/dp/B09MM58Y7Q",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/71bDJ9wxxWL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "₹",
+            "value": 35990,
+            "currency": "INR",
+            "raw": "₹35,990.00"
+          }
+        }
+      ]
+    }
+  }
