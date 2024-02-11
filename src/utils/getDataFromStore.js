@@ -1,5 +1,5 @@
 import { doc, getDoc } from "firebase/firestore";
-import { setCart, setItemCount } from "../Redux/cartSlice";
+import { setCart, setItemCount } from "../Redux/CartSlice";
 import { db } from "../Components/Firebase";
 
 export const getDataFromStore = async (dispatch) => {
