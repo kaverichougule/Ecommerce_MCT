@@ -1,5 +1,4 @@
 import React from "react";
-
 import "../../assets/css/templatemo-hexashop.css";
 import HomeMen from "../HomeContent/HomeMen";
 import HomeAccessories from "../HomeContent/HomeAccessories";

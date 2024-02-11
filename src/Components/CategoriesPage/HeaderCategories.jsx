@@ -4,33 +4,33 @@ import GroceriesData from "../../assets/ProductData/Groceries.json";
 import AccessoriesData from "../../assets/ProductData/Accessories.json";
 import LaptopData from "../../assets/ProductData/Laptop.json";
 import DisplayAll from "./Common/DisplayAll";
-import { useParams } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import { setDataArray } from "../../Redux/HeaderSlice";
 import { useDispatch } from "react-redux";
 
 function HeaderCategories(props) {
-  const { category } = useParams();
+  const location = useLocation();
   const dispatch=useDispatch();
   
-  switch (category) {
-    case "clothing":
+  switch (location.pathname) {
+    case "/clothing":
         dispatch(setDataArray(ClothingData));
         break;
-    case "grocery":
+    case "/groceries":
         dispatch(setDataArray(GroceriesData));
         break;
-    case "accessories":
+    case "/accessories":
         dispatch(setDataArray(AccessoriesData));    
         break;
-    case "laptops":
+    case "/electronics":
         dispatch(setDataArray(LaptopData));
         break;
     default:
-        dispatch(setDataArray());
+        dispatch(setDataArray([]));
         break;
   }
   return (
-    <div>
+    <div className="flex items-center justify-between w-full flex-wrap gap-4">
       <DisplayAll  />
     </div>
   );

@@ -7,13 +7,17 @@ import { FaRegHeart } from "react-icons/fa";
 import { NavLink, useNavigate } from "react-router-dom";
 import { IoSearch } from "react-icons/io5";
 import { useDispatch, useSelector } from "react-redux";
-import { setLoggedIn,setCurrentUser, userAuthentication } from "../../Redux/AuthSlice";
+import {
+  setLoggedIn,
+  setCurrentUser,
+  userAuthentication,
+} from "../../Redux/AuthSlice";
 
 const navigation = [
-  { name: "CLOTHING", to: "/clothing", current: true, data:"clothing" },
-  { name: "ACCESSORIES", to: "/accessories", current: false,data:"grocery" },
-  { name: "GROCERIES", to: "/groceries", current: false, data:"accessories"},
-  { name: "ELECTRONICS", to: "/electronics", current: false, data:"laptops" },
+  { name: "CLOTHING", to: "/clothing", current: true, data: "clothing" },
+  { name: "ACCESSORIES", to: "/accessories", current: false, data: "grocery" },
+  { name: "GROCERIES", to: "/groceries", current: false, data: "accessories" },
+  { name: "ELECTRONICS", to: "/electronics", current: false, data: "laptops" },
 ];
 
 function classNames(...classes) {
@@ -69,19 +73,20 @@ export default function Header() {
                     />
                   </NavLink>
                 </div>
-                <div className="flex gap-10">
+                <div className="flex items-center gap-10">
                   <div className="hidden sm:ml-6 sm:block">
-                    <div className="flex space-x-4">
+                    <div className="flex items-center space-x-4">
                       {navigation.map((item) => (
                         <NavLink
                           key={item.name}
-                          to={item.to+"/"+item.data}
-                          className={classNames(
-                            item.current
-                              ? "bg-gray-900 text-white"
-                              : "text-gray-300 hover:bg-gray-700 hover:text-white",
-                            "rounded-md px-3 py-2 text-sm font-medium"
-                          )}
+                          to={item.to}
+                          className={({ isActive, isPending }) =>
+                            isPending
+                              ? "text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium"
+                              : isActive
+                              ? "bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium"
+                              : ""
+                          }
                           aria-current={item.current ? "page" : undefined}
                         >
                           {item.name}
@@ -188,13 +193,14 @@ export default function Header() {
                         <Menu.Item>
                           {({ active }) => (
                             <p
-                              
                               className={classNames(
                                 active ? "bg-gray-100" : "",
                                 "block px-4 py-2 text-sm text-gray-700"
                               )}
-                              onClick={()=>{
-                                dispatch(userAuthentication({type:"SIGNOUT"}))
+                              onClick={() => {
+                                dispatch(
+                                  userAuthentication({ type: "SIGNOUT" })
+                                );
                                 localStorage.removeItem("currentUser");
                               }}
                             >

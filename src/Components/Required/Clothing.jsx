@@ -22,7 +22,7 @@ function Clothing(props) {
             </h2>
           </div>
 
-          <div className="mt-10 grid grid-cols-2 gap-6 sm:grid-cols-4 sm:gap-4 lg:mt-16">
+          <div className="w-full">
             <HeaderCategories />
           </div>
         </div>
