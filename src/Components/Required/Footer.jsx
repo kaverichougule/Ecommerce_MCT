@@ -22,15 +22,11 @@ export default function Example() {
         "Facebook","Twitter","Instagram"
     ]
   return (
-    <div className="bg-gray-800">
+    <div className="bg-gray-800 text-white">
         <div className="flex justify-between p-20">
             <div className="flex flex-col">
-                <img
-                    className="h-8 w-auto mb-5"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                    alt="Your Company"
-                />
-                <p>Making the world a better place through constructing elegant hierarchies</p>
+                <h1 className="projectName">TrendBazaar</h1>
+                <p className="text-white">Making the world a better place through constructing elegant hierarchies</p>
             </div>
 
             <div className="">
@@ -38,17 +34,17 @@ export default function Example() {
                 <div className="flex flex-col">
                     {
                         OnlineShopping.map((items,index)=>{
-                            return <p key={index} >{items}</p>
+                            return <p key={index} className="text-white">{items}</p>
                         })
                     }
                 </div>
             </div>
             <div className="">
                 <h3 className="font-bold mb-5">Customer Policies</h3>
-                <div className="flex flex-col">
+                <div className="flex flex-col ">
                     {
                         CustomerPolicies.map((items,index)=>{
-                            return <p key={index}>{items}</p>
+                            return <p key={index} className="text-white">{items}</p>
                         })
                     }
                 </div>
@@ -59,7 +55,7 @@ export default function Example() {
                 <div className="flex flex-col">
                     {
                         ConnectUs.map((items,index)=>{
-                            return <p key={index}>{items}</p>
+                            return <p key={index} className="text-white">{items}</p>
                         })
                     }
                 </div>
