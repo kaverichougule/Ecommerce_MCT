@@ -14,6 +14,8 @@ import React, { useEffect } from 'react';
 import axios from 'axios';
 import { setCurrentSearch } from "../src/Redux/HeaderSlice"
 import SingleProduct from './Components/SingleProduct'
+import AddToCart from "./Components/Cart/Cart"
+import Cart from './Components/Cart/Cart'
 function App() {
   // const [productData, setProductData] = useState(null);
 
@@ -76,6 +78,10 @@ function App() {
         {
           path:"singleProduct/:asin",
           element:<SingleProduct />
+        },
+        {
+          path: "cart",
+          element: <Cart />
         }
       ] 
     }

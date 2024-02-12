@@ -7,6 +7,7 @@ import {
   setSingleProduct,
   setMainImage,
   setPrice,
+  setCart
 } from "../Redux/CartSlice";
 import axios from "axios";
 import { getDataFromStore } from "../utils/getDataFromStore";

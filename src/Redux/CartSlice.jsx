@@ -10,6 +10,8 @@ const initialState = {
   singleProduct:{},
   mainImage: "",
   price: 0,
+  productData : [],
+  totalCartAmount: 0,
 };
 
 const auth = getAuth();
@@ -43,6 +45,12 @@ const dataSlice = createSlice({
     },
     setPrice : (state, action) => {
       state.price = action.payload;
+    },
+    setProductData : (state, action) => {
+      state.productData = action.payload;
+    },
+    setTotalCartAmount : (state, action) => {
+      state.totalCartAmount = action.payload;
     },
   },
 });
@@ -133,5 +141,5 @@ export const fetchCartData = async () => {
 };
 
 // Fix the action name to be consistent
-export const { getCurrentData,setItemCount,setPrice, setMainImage, setSingleProduct, setCart } = dataSlice.actions;
+export const { getCurrentData,setItemCount,setPrice, setMainImage, setSingleProduct, setCart, setProductData, setTotalCartAmount } = dataSlice.actions;
 export default dataSlice.reducer;

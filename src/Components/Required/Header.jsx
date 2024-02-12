@@ -4,7 +4,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { CgProfile } from "react-icons/cg";
 import { PiBagBold } from "react-icons/pi";
 import { FaRegHeart } from "react-icons/fa";
-import { NavLink, useNavigate } from "react-router-dom";
+import { NavLink, useNavigate, useLocation } from "react-router-dom";
 import { IoSearch } from "react-icons/io5";
 import { useDispatch, useSelector } from "react-redux";
 import {
@@ -27,11 +27,14 @@ function classNames(...classes) {
 export default function Header() {
   const dispatch = useDispatch();
   const navigate = useNavigate();
+  const location = useLocation();
   const { currentUser, isLoggedIn } = useSelector((state) => state.User);
   useEffect(() => {
     if (Object.keys(currentUser).length !== 0) {
       dispatch(setLoggedIn(true));
-      navigate("/");
+      if(location.pathname === "/"  || location.pathname === "/Register"){
+        navigate("/");
+      }
     } else {
       dispatch(setLoggedIn(false));
     }
